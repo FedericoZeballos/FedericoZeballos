@@ -61,7 +61,7 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
 <br>
   
   <a href="https://github.com/FedericoZeballos/AdministracionVentasDespensa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=AdministracionVentasDespensa&theme=blue_navy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=AdministracionVentasDespensa&theme=blue_navy&cache_seconds=0" />
 </a>
 <a href="https://github.com/SumanthBajjuri07/clear-date-predictor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
