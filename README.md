@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+
 <blockquote style="font-size: 24px;">
   <p align="center">
     <strong>"Empowering the Future: Innovating for a Better World"</strong>
