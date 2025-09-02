@@ -126,10 +126,11 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
   <a href="https://github.com/FedericoZeballos/AdministracionVentasDespensa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=AdministracionVentasDespensa&theme=blue_navy&cache_seconds=0" />
 </a>
-<a href="https://github.com/SumanthBajjuri07/clear-date-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
+  
+<a href="https://github.com/FedericoZeballos/RegistraloApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=RegistraloApp&theme=blue_navy&cache_seconds=0" />
 </a>
-
+  
   <a href="https://github.com/SumanthBajjuri07/project-football-matches">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches&theme=great-gatsby" />
 </a>
@@ -140,6 +141,7 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
   <a href="https://github.com/SumanthBajjuri07/disney-movies-and-box-office-success">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
 </a>
+
 <a href="https://github.com/SumanthBajjuri07/collab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
 </a>
