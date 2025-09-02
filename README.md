@@ -37,7 +37,7 @@ Apart from coding, I enjoy:
 
 Mi objetivo es construir una startup que impacte positivamente en la vida de muchas de personas. Estoy entusiasmado con las posibilidades que se me presentan para seguir aprendiendo y creciendo en este camino.
 
-### Pongamosnos en contacto > <
+<h3 align="center">Pongámonos en contacto &gt; &lt;</h3>
 
 <p align="center">
   Puedes encontrarme en:
