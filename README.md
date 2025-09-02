@@ -1,11 +1,11 @@
 <h1 align="center"> Holaa! Soy <span style="color:red;">Z</span>eballos <span style="color:red;">F</span>ederico 👋 </h1>
 <h3 align="center">💻 Analista en Sistemas y próximamente Ingeniero 🎓</h3>
 
-
+<br>
 <table>
   <tr>
     <!-- Columna de texto -->
-    <td style="width: 60%; vertical-align: top; padding-right: 20px;">
+    <td align="center" style="width: 60%; vertical-align: top; padding-right: 20px;">
       <blockquote style="font-size: 22px; margin: 0 0 15px 0; padding: 0; text-align: left;">
         <strong>"Programar para ayudar, innovar para servir"</strong>
       </blockquote>
@@ -27,20 +27,20 @@
 
 
 
+<br>
 
-
-**Idiomas**  
+### 🌎 Idiomas  
 - Español: nativo  
 - Inglés: nivel A2/B1 
 
-### 💡 Intereses
+## 💡 Intereses
 
 Me interesa profundamente:
 
 - Desarrollar proyectos reales que resuelvan problemas significativos.  
 - Explorar el fascinante campo de la IA y experimentar con diferentes conjuntos de datos y modelos. 
 
-### 📚 Hobbies
+## 📚 Hobbies
 
 Además de programar, disfruto de:
 
@@ -48,13 +48,13 @@ Además de programar, disfruto de:
 - Sumergirme en la mecánica vehicular y proyectos electrónicos, combinando creatividad e ingeniería.
 - Dar una segunda vida a lo viejo, encontrando nuevas formas de aprovechar y reinventar sistemas.
 
-### 🌱 Aspiración 
+## 🌱 Aspiración 
 
 Mi objetivo es construir una startup que impacte positivamente en la vida de muchas de personas. Estoy entusiasmado con las posibilidades que se me presentan para seguir aprendiendo y creciendo en este camino.
 
 <br>
   
-## 🛠️ Mis Skills
+# 🛠️ Mis Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> </picture> Lenguajes de Programación:  
 <p align="left">
@@ -120,9 +120,9 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
 
 
 <br>
+<hr>
 
-
-  
+<div align="center">
   <a href="https://github.com/FedericoZeballos/AdministracionVentasDespensa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=AdministracionVentasDespensa&theme=blue_navy&cache_seconds=0" />
 </a>
@@ -144,13 +144,12 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
 </a>
 
+</div>
+<hr>
 
 
-<br>
-
-
-<h3 align="center">Pongámonos en contacto &gt; &lt;</h3>
-
+<h3 align="center"> 📞 Pongámonos en contacto</h3>
+<hr>
 <p align="center">
   Puedes encontrarme en:
 </p>
@@ -186,7 +185,7 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
 </table>
 </div>
 
-
+<hr>
 
 <!--
 **FedericoZeballos/FedericoZeballos** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
