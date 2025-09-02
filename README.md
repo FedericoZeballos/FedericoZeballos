@@ -15,23 +15,32 @@
 
 ### 🚀 Experiencia
 
-- Programming Languages: C++, C, Python
-- Web Development: Currently learning and exploring
-- Soft Skills: Excellent communication, collaboration, and public speaking
+- **Lenguajes de programación:** JavaScript, C#, Python, PHP, Ruby on Rails, Vue
+- **Frameworks:** Vue.js, Laravel 11, Ruby on Rails.
+- **Fundamentos de DevOps:** Git,GitHub,Docker, CI/CD Básico.
+- **Gestión de Bases de Datos:** MySQL, Postgress, Postman.
+- **Metodologías de Desarrollo:** Scrum, Kanban, XP, DSDM, Scrumban, Agile en general.
+- **Tecnologías Frontend:** HTML, CSS,Sass, TypeScript, PWA, Vuetify,Tailwind, Boostrap.
+- **Habilidades blandas:** Excelente comunicación, colaboración y oratoria.
+
+**Idiomas**  
+- Español: nativo  
+- Inglés: nivel A2/B1 
 
 ### 💡 Intereses
 
-I'm deeply interested in:
+Me interesa profundamente:
 
-- Building real-life projects that solve meaningful problems.
-- Exploring the fascinating field of AI and experimenting with different datasets and models.
+- Desarrollar proyectos reales que resuelvan problemas significativos.  
+- Explorar el fascinante campo de la IA y experimentar con diferentes conjuntos de datos y modelos. 
 
 ### 📚 Hobbies
 
-Apart from coding, I enjoy:
+Además de programar, disfruto de:
 
-- Writing and expressing my thoughts through words.
-- Reading books and expanding my knowledge.
+- Explorar el diseño técnico 3D, especialmente con Fusion360, donde transformo ideas en modelos tangibles
+- Sumergirme en la mecánica vehicular y proyectos electrónicos, combinando creatividad e ingeniería.
+- Dar una segunda vida a lo viejo, encontrando nuevas formas de aprovechar y reinventar sistemas.
 
 ### 🌱 Aspiración 
 
@@ -57,8 +66,8 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
 </p>
 
 <p align="center">
-  <a href="mailto:federico.zeballos.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:federico.zeballos.dev@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Federico,">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" />
   </a>
 </p>
 
