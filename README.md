@@ -128,7 +128,7 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
 </a>
   
 <a href="https://github.com/FedericoZeballos/RegistraloApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=RegistraloApp&theme=blue_navy&cache_seconds=0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=RegistraloApp&theme=blue_navy" />
 </a>
   
   <a href="https://github.com/SumanthBajjuri07/project-football-matches">
