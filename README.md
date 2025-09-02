@@ -13,13 +13,13 @@
 ¡Bienvenido/a a mi perfil de GitHub! Soy un profesional versátil y polivalente con fuerte orientación a la resolución de problemas, visión de producto y mejora continua. Con experiencia en gestión de proyectos, optimización de procesos y autogestión, mi objetivo personal es crear soluciones eficientes y sostenibles.
 </p>
 
-### 🚀 Expertise
+### 🚀 Experiencia
 
 - Programming Languages: C++, C, Python
 - Web Development: Currently learning and exploring
 - Soft Skills: Excellent communication, collaboration, and public speaking
 
-### 💡 Interests
+### 💡 Intereses
 
 I'm deeply interested in:
 
@@ -33,9 +33,9 @@ Apart from coding, I enjoy:
 - Writing and expressing my thoughts through words.
 - Reading books and expanding my knowledge.
 
-### 🌱 Future Goals
+### 🌱 Aspiración 
 
-My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
+Mi objetivo es construir una startup que impacte positivamente en la vida de muchas de personas. Estoy entusiasmado con las posibilidades que se me presentan para seguir aprendiendo y creciendo en este camino.
 
 ### Let's Connect
 
