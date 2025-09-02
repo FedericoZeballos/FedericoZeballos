@@ -9,7 +9,7 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
+¡Bienvenido/a a mi perfil de GitHub! Soy un profesional versátil y polivalente con fuerte orientación a la resolución de problemas, visión de producto y mejora continua. Con experiencia en gestión de proyectos, optimización de procesos y autogestión, mi objetivo personal es crear soluciones eficientes y sostenibles.
 
 ### 🚀 Expertise
 
