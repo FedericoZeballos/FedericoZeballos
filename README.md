@@ -5,11 +5,13 @@
 
 <blockquote style="font-size: 24px;">
   <p align="center">
-    <strong>"Empowering the Future: Innovating for a Better World"</strong>
+    <strong>"Programar para ayudar, innovar para servir"</strong>
   </p>
 </blockquote>
 
+<p align="justify">
 ¡Bienvenido/a a mi perfil de GitHub! Soy un profesional versátil y polivalente con fuerte orientación a la resolución de problemas, visión de producto y mejora continua. Con experiencia en gestión de proyectos, optimización de procesos y autogestión, mi objetivo personal es crear soluciones eficientes y sostenibles.
+</p>
 
 ### 🚀 Expertise
 
