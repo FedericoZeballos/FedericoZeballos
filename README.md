@@ -1,17 +1,15 @@
 <h1 align="center"> Holaa! Soy <span style="color:red;">Z</span>eballos <span style="color:red;">F</span>ederico 👋 </h1>
-<h2 align="center">💻 Analista en Sistemas y próximamente Ingeniero 🎓</h2>
+<h3 align="center">💻 Analista en Sistemas y próximamente Ingeniero 🎓</h3>
+
 
 <table>
   <tr>
     <!-- Columna de texto -->
     <td style="width: 60%; vertical-align: top; padding-right: 20px;">
-      <blockquote style="font-size: 22px; margin: 0; padding: 0;">
-        <p align="center">
-          <strong>"Programar para ayudar, innovar para servir"</strong>
-        </p>
+      <blockquote style="font-size: 22px; margin: 0 0 15px 0; padding: 0; text-align: left;">
+        <strong>"Programar para ayudar, innovar para servir"</strong>
       </blockquote>
-
-      <p align="justify" style="font-size: 16px; line-height: 1.6; margin-top: 15px;">
+      <p align="justify" style="margin: 0;">
         ¡Bienvenido/a a mi perfil de GitHub! Soy un profesional versátil y polivalente 
         con fuerte orientación a la resolución de problemas, visión de producto y mejora continua.  
         Con experiencia en gestión de proyectos, optimización de procesos y autogestión, 
@@ -19,13 +17,16 @@
       </p>
     </td>
 
-    <!-- Columna del GIF -->
-    <td style="width: 40%; text-align: center; vertical-align: middle;">
-      <img alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" 
-           width="400" height="280" style="border-radius: 12px;"/>
-    </td>
+  <!-- Columna con la imagen -->
+<td style="width: 40%; text-align: center; vertical-align: top;">
+  <img src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" alt="GIF" width="420" height="270">
+</td>
   </tr>
 </table>
+
+
+
+
 
 
 **Idiomas**  
@@ -163,16 +164,27 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
   </a>
 </p>
 
+<div align="center">
 <p align="center">
-  Contactame:
+  Mi Gmail:
 </p>
 
-<p align="center">
-  <a href="mailto:federico.zeballos.dev@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Federico,">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" />
-  </a>
-</p>
+<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" /> </p>
 
+<table>
+  <tr>
+    <!-- Columna de texto -->
+    <td style="width: 60%; vertical-align: top; padding-right: 20px;">
+      <blockquote style="font-size: 22px; margin: 0; padding: 0;">
+        <p align="center">
+          <strong>"Cópiame😉:"</strong>
+        </p>
+      </blockquote>
+
+      federico.zeballos.dev@gmail.com        
+  </tr>
+</table>
+</div>
 
 
 
