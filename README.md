@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<h1 align="center">Hi there! I'm Zeballos Federico 👋</h1>
+<h1 align="center"> Holaa! Soy Zeballos Federico 👋 </h1>
+<h2 align="center">💻 Analista en Sistemas y proximamente Ingeniero 🎓</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
