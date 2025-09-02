@@ -58,7 +58,7 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
 
 <p align="center">
   <a href="mailto:federico.zeballos.dev@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
