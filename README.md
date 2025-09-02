@@ -1,10 +1,6 @@
 <h1 align="center"> Holaa! Soy Zeballos Federico 👋 </h1>
 <h2 align="center">💻 Analista en Sistemas y proximamente Ingeniero 🎓</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
-</p>
-
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 <blockquote style="font-size: 24px;">
