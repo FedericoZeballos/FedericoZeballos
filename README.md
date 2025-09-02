@@ -157,6 +157,65 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
 <br>
+
+## 🛠️ My Skills
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> </picture> Programming Languages
+- JavaScript  
+- C#  
+- Python  
+- PHP  
+- Ruby on Rails  
+- Vue  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px> </picture> Frontend Development
+- HTML  
+- CSS  
+- Sass  
+- TypeScript  
+- PWA  
+- Vuetify  
+- Tailwind  
+- Bootstrap  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px> </picture> Frameworks
+- Vue.js  
+- Laravel 11  
+- Ruby on Rails  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px> </picture> DevOps Fundamentals
+- Git  
+- GitHub  
+- Docker  
+- CI/CD (básico)  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px> </picture> Database Management
+- MySQL  
+- PostgreSQL  
+- Postman  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px> </picture> Development Methodologies
+- Scrum  
+- Kanban  
+- XP  
+- DSDM  
+- Scrumban  
+- Agile (en general)  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px> </picture> Soft Skills
+- Excelente comunicación  
+- Colaboración  
+- Oratoria  
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
+
+
+
+
+
 <!--
 **FedericoZeballos/FedericoZeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
