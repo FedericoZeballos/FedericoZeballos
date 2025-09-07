@@ -117,11 +117,13 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
   <img src="https://img.shields.io/badge/Oratoria-FF4088?style=for-the-badge&logoColor=white"/>
 </p>
 
-
-<br>
-# 📂 Mis Proyectos mas recientes 🔥🍞
 <br>
 <hr>
+
+<h2 align="center">📂 Mis Proyectos más recientes 🔥🍞</h2>
+
+
+
 
 <div align="center">
   <a href="https://github.com/FedericoZeballos/AdministracionVentasDespensa">
