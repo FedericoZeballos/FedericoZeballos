@@ -132,7 +132,7 @@ Mi objetivo es construir una startup que impacte positivamente en la vida de muc
 </a>
   
   <a href="https://github.com/FedericoZeballos/Torneo-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=TorneoApp&theme=blue_navy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FedericoZeballos&repo=Torneo-App&theme=blue_navy" />
 </a>
 
 <a href="https://github.com/SumanthBajjuri07/investigating-the-netflix-movies">
